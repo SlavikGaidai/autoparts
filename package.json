@@ -1,0 +1,28 @@
+{
+  "name": "online-auto-part-shop",
+  "version": "1.0.0",
+  "description": "- Follow the structure to create new files\r - Write comments for every code ...\r - Thank You.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishalbarman/online-auto-part-shop.git"
+  },
+  "author": "Nishal, Chetan, Prasad, Ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishalbarman/online-auto-part-shop/issues"
+  },
+  "homepage": "https://github.com/nishalbarman/online-auto-part-shop#readme",
+  "type": "module",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "json-server": "^1.0.0-alpha.23"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
